@@ -1,5 +1,5 @@
 # PassportDetection
-<h2> In this notebook train neural network ResNet50, which determines the presence of a passport (or it could be something other document) on the photo </h2>
+<h2> This notebook contains training of neural network on architecture ResNet50, which determines the presence of a passport (or it could be something other document) on the photo </h2>
 
 First part of notebook is augmentation. We have 2 folders which named "0" and "1" and include photos of people with and without document. 
 And by augmentation we get 5 new photos from 1 old.
